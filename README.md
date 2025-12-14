@@ -1,4 +1,4 @@
-# Person Age Recorder (C)
+# Person Name,Surname and Age Recorder (C)
 
 This project is a simple C program that records people's names and ages entered from the keyboard and saves them to a text file.
 The purpose of this project is to practice struct usage and file operations in C.
