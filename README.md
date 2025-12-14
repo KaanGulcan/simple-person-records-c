@@ -1,12 +1,12 @@
 # Person Age Recorder (C)
 
 This project is a simple C program that records people's names and ages entered from the keyboard and saves them to a text file.
-The purpose of this project is to practice **struct usage** and **file operations** in C.
+The purpose of this project is to practice struct usage and file operations in C.
 
 ## Features
 
-* Takes person name,surname and age from user input
-* Saves records to a ".txt" file
+* Takes person name and age from user input
+* Saves records to a `.txt` file
 * Uses `struct` to store person data
 
 ## Technologies Used
@@ -37,6 +37,5 @@ bir metin dosyasına (`.txt`) kaydeden basit bir C programıdır.
 Struct yapısı ve dosya işlemleri kullanılmıştır.
 
 ## Notes
-This project was created for learning purposes
 
-This project was created for learning purposes and basic GitHub portfolio usage.
+This project was created for learning purposes
